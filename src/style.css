@@ -15,7 +15,7 @@ body{
 }
 
 .contain-input{
-    background:url('../assets/pattern-bg.png') no-repeat;
+    background:url('../public/pattern-bg.png') no-repeat;
     background-size: cover;
     padding:10px 30px 0 30px;
     display:flex; 
