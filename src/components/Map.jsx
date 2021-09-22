@@ -1,5 +1,5 @@
 import React from 'react'
-import IconMarker from '../assets/icon-location.svg'
+import IconMarker from '../../assets/icon-location.svg'
 import { withScriptjs, withGoogleMap,GoogleMap,Marker} from 'react-google-maps'
 const Map = withScriptjs(withGoogleMap(({center}) => (
     <>
