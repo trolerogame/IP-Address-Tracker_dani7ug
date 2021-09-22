@@ -1,5 +1,4 @@
 import React,{useState} from 'react'
-import './style.css'
 import Map from './components/Map'
 import CardLocation from './components/Location'
 import Form from './components/Form'
